@@ -1,7 +1,10 @@
 ### About me 👋
 ✍🏼 I am an American Translators Association certified English<>Russian translator and have helped my clients communicate with their Russian-speaking audiences effectively by producing accurate, culturally-appropriate, and fluent translations. More information is available at https://intorussian.net.
+
 👩🏻‍🏫 I have additional experience in the areas of language teaching and project management.
+
 👩🏻‍💼 I am currently in full-time employment, and my availability for translation work is limited, but I would be happy to refer you to one of my trusted colleagues.
+
 💻 I have pursued additional training in the field of natural language processing and am interested in machine learning applications for solving text (and speech!) based challenges.
 <!--
 **carexl8/carexl8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
