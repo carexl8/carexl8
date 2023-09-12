@@ -1,5 +1,5 @@
 ### About me 👋
-✍🏼 I am an American Translators Association certified English<>Russian translator and have helped my clients communicate with their Russian-speaking audiences effectively by producing accurate, culturally-appropriate, and fluent translations. More information is available at https://intorussian.net.
+✍🏼 I am an English<>Russian translator. More information is available at https://intorussian.net.
 
 👩🏻‍🏫 I have additional experience in the areas of language teaching and project management.
 
