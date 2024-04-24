@@ -1,5 +1,5 @@
 ### About me 👋
-✍🏼 I am an English<>Russian translator. More information is available at https://intorussian.net.
+✍🏼 I am an English<>Russian translator. More information is available at https://wordpress.intorussian.com.
 
 👩🏻‍🏫 I have additional experience in the areas of language teaching and project management.
 
