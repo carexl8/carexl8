@@ -3,7 +3,7 @@
 
 👩🏻‍🏫 I have additional experience in the areas of language teaching and project management.
 
-👩🏻‍💼 I am currently in full-time employment, and my availability for translation work is limited, but I would be happy to refer you to one of my trusted colleagues.
+👩🏻‍💼 I am currently looking for roles in localization, project management, or computational linguistics.
 
 💻 I have pursued additional training in the field of natural language processing and am interested in machine learning applications for solving text (and speech!) based challenges.
 <!--
