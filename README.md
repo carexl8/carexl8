@@ -1,7 +1,7 @@
 ### About me 👋
-✍🏼 I am an English<>Russian translator. More information is available at https://www.linkedin.com/in/mguzenko/.
+✍🏼 I am a language, project management, and natural language processing specialist. More information is available at https://www.linkedin.com/in/mguzenko/.
 
-👩🏻‍🏫 I have additional experience in the areas of language teaching and project management.
+👩🏻‍🏫 I have additional experience in the areas of language teaching and am an English<>Russian translator.
 
 👩🏻‍💼 I am currently looking for roles in localization, project management, or computational linguistics.
 
